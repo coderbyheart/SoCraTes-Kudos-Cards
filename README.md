@@ -1,5 +1,7 @@
 # Kudos Cards
 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 These cards were designed for the [SoCraTes Conference](https://www.socrates-conference.de/).
 
 ![Front 01](./export/01_front.pdf.png)
@@ -30,4 +32,4 @@ These cards were designed for the [SoCraTes Conference](https://www.socrates-con
 
 ## Acknowledgements
 
- * Emoji icons by [Emoji One](https://github.com/Ranks/emojione/tree/2.2.7)
+- Emoji icons by [Emoji One](https://github.com/Ranks/emojione/tree/2.2.7)
